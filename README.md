@@ -6,7 +6,7 @@ The goal of this project is to train a classifier to identify the type of a part
 <img src="pic/pid.jpg" width="400">
 
 
-Based on the materials for the course [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning) made public via [this link](https://github.com/hse-aml/hadron-collider-machine-learning).
+This analysis is based on the materials for the course [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning) made public via [this link](https://github.com/hse-aml/hadron-collider-machine-learning).
 
 ### Columns
 
